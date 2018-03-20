@@ -1,0 +1,10 @@
+body{
+    background-color: green;
+}
+footer{
+    background-color: yellowgreen;
+    margin: 0px;
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+}
